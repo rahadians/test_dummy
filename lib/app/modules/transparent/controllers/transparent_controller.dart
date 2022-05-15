@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 
-class HomeController extends GetxController {
-  //TODO: Implement HomeController
+class TransparentController extends GetxController {
+  //TODO: Implement TransparentController
 
   final count = 0.obs;
   @override
